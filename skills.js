@@ -1,3 +1,3 @@
-function calcultaeNumbers(var 1, var 2) {
-  return var1 + var2;
+function calculateNumbers(var1 , var2){
+    return var1 + var2;
 }
